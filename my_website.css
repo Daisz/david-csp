@@ -1,0 +1,29 @@
+body {
+            background-color: #99c2ff;
+         }
+         
+h {
+    text-align: center;
+    font-size:150%;
+}
+
+p, pre {
+    font-size:125%;
+}
+
+div {
+    border: 50px green;
+    width:100;
+    padding: 10mm;
+}
+
+
+<div>
+    <table width="1000">
+        <tr>
+            <td>
+                
+            </td>
+        </tr>
+    </table>
+</div>
